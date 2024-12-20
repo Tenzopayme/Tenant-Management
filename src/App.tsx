@@ -1,6 +1,6 @@
 import "./App.css";
 
 function App() {
-  return <h1 className="text-2xl font-bold underline">pass hi </h1>;
+  return <h1 className="text-2xl font-bold underline">pass hi pass </h1>;
 }
 export default App;
